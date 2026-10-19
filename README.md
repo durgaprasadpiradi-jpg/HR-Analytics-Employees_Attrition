@@ -40,3 +40,21 @@ This project demonstrates the use of SQL to analyze workforce data, calculate at
 ## Dataset
 IBM HR Analytics Employee Attrition dataset, used for educational and portfolio purposes.
 
+## Power BI Dashboard
+
+Created an interactive HR Analytics Dashboard using Microsoft Power BI to analyze employee attrition.
+
+### Key Performance Indicators
+- Total Employees: 1,470
+- Employees Who Left: 237
+- Overall Attrition Rate: 16.12%
+
+### Dashboard Visualizations
+- Department-wise Employee Attrition
+- Job Role-wise Employee Attrition
+
+### Tools Used
+- SQL
+- Microsoft Excel
+- Microsoft Power BI
+
